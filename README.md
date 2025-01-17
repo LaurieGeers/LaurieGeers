@@ -1,11 +1,17 @@
 ## Hi there 👋
 
+- 🔭 I’m am researcher in cognitive neuroscience, particularly interested in perception, action and spatial cognition. 
+- 🌱 I wrote open-source R analysis scripts (1) to extract the subjective point of equality (PSE) of logistic regtessions and (2) to analyze eye-tracking data using the cross-validation method described by Mathôt & Vilotijević (2023).
+- 👯 Feel free to explore my repositories!
+- 📫 How to reach me: laurie.geers@uclouvain.be
+
+
+
 <!--
 **LaurieGeers/LaurieGeers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-## 🔭 I’m am researcher
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
